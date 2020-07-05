@@ -3,6 +3,7 @@ add_library('sound') #musicie sobie miski doinstalowac bibliotkę - sketch - imp
 ###### I niech stanie się gra #######
 
 import sys
+import math
 import random
 import time
 import processing.sound
